@@ -1,0 +1,5 @@
+.idea
+.ebextensions
+.vscode
+_pycache_
+.slugignore
